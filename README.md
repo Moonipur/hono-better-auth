@@ -1,12 +1,13 @@
-To install dependencies:
+# hono-better-auth
+
+### To install dependencies:
 ```sh
 bun install
 ```
 
-To run:
+### To run:
 ```sh
 bun run dev
 ```
 
 open http://localhost:3000
-# hono-better-auth
